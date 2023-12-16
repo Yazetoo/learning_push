@@ -1,1 +1,2 @@
- empat 10
+ empat 1000
+ 
